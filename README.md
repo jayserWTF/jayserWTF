@@ -7,7 +7,7 @@
 * **Python**
   - *Junior*
   - *Little Ml* — `tensorflow`
-  - *Network & Web Protocols* — `requests`, `websocet-client`
+  - *Network & Web Protocols* — `requests`, `websocket-client`
 
 * **C++**
   - *Learning in progress...*
