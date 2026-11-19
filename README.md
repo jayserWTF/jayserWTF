@@ -6,7 +6,7 @@
 ### Knowledge
 * **Python**
   - *Junior*
-  - *Little Ml* — `TensorFlow`
+  - *Little Machine learn (NLP, CV)* — `TensorFlow`, `Yolo`
   - *Network & Web Protocols* — `requests`, `websocket-client`
 
 * **C++**
